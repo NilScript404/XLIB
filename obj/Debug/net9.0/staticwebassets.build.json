@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "EQckaX5SZDLf6zdE1bLuSOwGAn/ApNmCMo7f1yk0R+0=",
+  "Source": "XLIB",
+  "BasePath": "_content/XLIB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "XLIB/wwwroot",
+      "Source": "XLIB",
+      "ContentRoot": "/media/hamid/SomeData/Proj/XLIB/wwwroot/",
+      "BasePath": "_content/XLIB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/1d6mnskbon-nwnyd8eb4f.gz",
+      "SourceId": "XLIB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/XLIB",
+      "RelativePath": "main#[.{fingerprint=nwnyd8eb4f}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/media/hamid/SomeData/Proj/XLIB/wwwroot/main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rejj2ufrgo",
+      "Integrity": "/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/media/hamid/SomeData/Proj/XLIB/wwwroot/main.js"
+    },
+    {
+      "Identity": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/bqz7vgykg1-57da01jx2k.gz",
+      "SourceId": "XLIB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/XLIB",
+      "RelativePath": "index#[.{fingerprint=57da01jx2k}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/media/hamid/SomeData/Proj/XLIB/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lt44fjbq2s",
+      "Integrity": "l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/media/hamid/SomeData/Proj/XLIB/wwwroot/index.html"
+    },
+    {
+      "Identity": "/media/hamid/SomeData/Proj/XLIB/wwwroot/index.html",
+      "SourceId": "XLIB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/hamid/SomeData/Proj/XLIB/wwwroot/",
+      "BasePath": "_content/XLIB",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57da01jx2k",
+      "Integrity": "UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/media/hamid/SomeData/Proj/XLIB/wwwroot/main.js",
+      "SourceId": "XLIB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/hamid/SomeData/Proj/XLIB/wwwroot/",
+      "BasePath": "_content/XLIB",
+      "RelativePath": "main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nwnyd8eb4f",
+      "Integrity": "eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.57da01jx2k.html",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/bqz7vgykg1-57da01jx2k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004484304933"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57da01jx2k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs="
+        }
+      ]
+    },
+    {
+      "Route": "index.57da01jx2k.html",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57da01jx2k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs="
+        }
+      ]
+    },
+    {
+      "Route": "index.57da01jx2k.html.gz",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/bqz7vgykg1-57da01jx2k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57da01jx2k"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/bqz7vgykg1-57da01jx2k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004484304933"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/bqz7vgykg1-57da01jx2k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l0N4eJ4YYi7SP8dZguViwcwFx13qTsCa8uq5hp+Z97c="
+        }
+      ]
+    },
+    {
+      "Route": "main.js",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/1d6mnskbon-nwnyd8eb4f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005128205128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw="
+        }
+      ]
+    },
+    {
+      "Route": "main.js",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/wwwroot/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw="
+        }
+      ]
+    },
+    {
+      "Route": "main.js.gz",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/1d6mnskbon-nwnyd8eb4f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8="
+        }
+      ]
+    },
+    {
+      "Route": "main.nwnyd8eb4f.js",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/1d6mnskbon-nwnyd8eb4f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005128205128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwnyd8eb4f"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw="
+        }
+      ]
+    },
+    {
+      "Route": "main.nwnyd8eb4f.js",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/wwwroot/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwnyd8eb4f"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eWUFcbm+Pk+1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw="
+        }
+      ]
+    },
+    {
+      "Route": "main.nwnyd8eb4f.js.gz",
+      "AssetFile": "/media/hamid/SomeData/Proj/XLIB/obj/Debug/net9.0/compressed/1d6mnskbon-nwnyd8eb4f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jul 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwnyd8eb4f"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/ezMTNCPxbWZt7DDLnqSUbTZZr45Zeka3R4fegl4jD8="
+        }
+      ]
+    }
+  ]
+}

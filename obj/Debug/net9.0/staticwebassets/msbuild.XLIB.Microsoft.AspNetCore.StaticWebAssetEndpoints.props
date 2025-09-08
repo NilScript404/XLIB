@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/XLIB/index.57da01jx2k.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"57da01jx2k"},{"Name":"integrity","Value":"sha256-UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs="},{"Name":"label","Value":"_content/XLIB/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"293"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Jul 2025 09:43:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XLIB/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"293"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022UXUo7xOcSlhbdz/4p67weHPMiSs7Dlm6w0f3W2ZZtFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Jul 2025 09:43:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XLIB/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eWUFcbm\u002BPk\u002B1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"257"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eWUFcbm\u002BPk\u002B1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Jul 2025 09:46:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/XLIB/main.nwnyd8eb4f.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nwnyd8eb4f"},{"Name":"integrity","Value":"sha256-eWUFcbm\u002BPk\u002B1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw="},{"Name":"label","Value":"_content/XLIB/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"257"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eWUFcbm\u002BPk\u002B1WKEv0eN2hbXpEHY2DAFVwGd/EoGMfsw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 27 Jul 2025 09:46:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

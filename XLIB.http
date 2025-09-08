@@ -1,0 +1,6 @@
+@XLIB_HostAddress = http://localhost:5190
+
+GET {{XLIB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
